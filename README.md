@@ -1,1 +1,1 @@
-# tadobre, dnes je štvrtok
+# tadobre, maybe later
