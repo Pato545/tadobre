@@ -1,1 +1,1 @@
-# tadobre ahoj ta ne
+# tadobre, dobry deò pán profesor
