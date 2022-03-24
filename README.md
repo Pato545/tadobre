@@ -1,1 +1,1 @@
-# tadobre, dobry deò pán profesor
+# tadobre, dnes je štvrtok
