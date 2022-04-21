@@ -1,2 +1,5 @@
 jeden
 dva
+tri 
+styri
+
