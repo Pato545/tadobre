@@ -10,3 +10,4 @@ devat
 desat
 jedenasst 
 dvanast
+13
