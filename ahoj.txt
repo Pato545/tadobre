@@ -11,5 +11,9 @@ desat
 jedenasst 
 dvanast
 13
+14,5
 sestnast
 skuska 17
+
+
+
