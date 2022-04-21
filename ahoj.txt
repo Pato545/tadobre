@@ -1,19 +1,2 @@
 jeden
 dva
-tri a pol
-styri a pol
-pat
-sest a pol
-sedem a pol
-osem a pol
-devat
-desat
-jedenasst 
-dvanast
-13
-14,5
-sestnast
-skuska 17
-
-
-
