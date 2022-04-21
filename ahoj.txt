@@ -1,7 +1,7 @@
 jeden
 dva
 tri a pol
-styri
+styri a pol
 pat
 sest a pol
 sedem a pol
